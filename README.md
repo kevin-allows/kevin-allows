@@ -10,4 +10,4 @@ I created this GitHub page in order to show that I understand how coding works b
 - Computer Science,
 - IT Project Management.
 
-Yeah, currently I am looking for job opportunities as Assistant Project Manager or Java/C# Developer.
+Yeah, currently I am looking for job opportunities as Assistant/Intern Project Manager or Java/C# Junior Developer.
